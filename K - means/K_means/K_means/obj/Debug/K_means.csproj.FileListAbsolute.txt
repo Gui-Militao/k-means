@@ -1,0 +1,14 @@
+E:\Guilherme\Faculdade\IA\Exercicios\K - means\K_means\K_means\bin\Debug\K_means.exe.config
+E:\Guilherme\Faculdade\IA\Exercicios\K - means\K_means\K_means\bin\Debug\K_means.exe
+E:\Guilherme\Faculdade\IA\Exercicios\K - means\K_means\K_means\bin\Debug\K_means.pdb
+E:\Guilherme\Faculdade\IA\Exercicios\K - means\K_means\K_means\obj\Debug\K_means.csprojResolveAssemblyReference.cache
+E:\Guilherme\Faculdade\IA\Exercicios\K - means\K_means\K_means\obj\Debug\K_means.csproj.CoreCompileInputs.cache
+E:\Guilherme\Faculdade\IA\Exercicios\K - means\K_means\K_means\obj\Debug\K_means.exe
+E:\Guilherme\Faculdade\IA\Exercicios\K - means\K_means\K_means\obj\Debug\K_means.pdb
+C:\Users\ASUS\Desktop\K-means\K - means\K_means\K_means\bin\Debug\K_means.exe.config
+C:\Users\ASUS\Desktop\K-means\K - means\K_means\K_means\bin\Debug\K_means.exe
+C:\Users\ASUS\Desktop\K-means\K - means\K_means\K_means\bin\Debug\K_means.pdb
+C:\Users\ASUS\Desktop\K-means\K - means\K_means\K_means\obj\Debug\K_means.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\K-means\K - means\K_means\K_means\obj\Debug\K_means.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\K-means\K - means\K_means\K_means\obj\Debug\K_means.exe
+C:\Users\ASUS\Desktop\K-means\K - means\K_means\K_means\obj\Debug\K_means.pdb
