@@ -11,7 +11,7 @@ namespace K_means
 {
   class Program
   {
-    //Guilherme Fonseca, João Victor Ramos, Henrique palote, Ioná Vieira
+    
     //substutuir o caminho para o caminho atual do arquivo (Grupo de Pessoas.txt) e para a criação do arquivo.
     const string path = @"C:\Users\ASUS\Desktop\K-means\";
     const string nomeArquivo = @"Grupo de Pessoas.txt";
